@@ -21,3 +21,6 @@ Click this icon after clicking on any reCaptcha and wait for it to complete.
  - Opera Extension
  - Python Library
  - Java Library
+ 
+ # Credits
+ Base integration with reCaptcha widgets obtained from https://github.com/dessant

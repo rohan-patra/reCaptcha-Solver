@@ -12,6 +12,7 @@ A chrome extensions to solve google recaptchas using the audio option and a  neu
 ![Icon](https://i.imgur.com/nRefaJe.png)
 
 Click this icon after clicking on any reCaptcha and wait for it to complete.
+
 ![Tutorial](https://i.imgur.com/2T6YUMJ.gif)
 
 # What's Next?
